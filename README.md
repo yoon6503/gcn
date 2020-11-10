@@ -8,7 +8,8 @@ project_review is the review and summary of the Semi-Supervised Classification w
 I wanted to implement graph convolutional networks, so it is different from Semi-Supervised Classification described in the paper. To use simple datasets, I used image data(Omniglot) and convert it to a graph data. However, it will not work well since it is not trained with sufficient amount of datasets.
 ## How to run the code
 data_sampler load the data. To load the data(Omniglot), we need to assign root_dir(where data is stored) to Omniglot class.
-Also, set num to 1(I think it will not work well when we assign bigger than 1 to num)
+Also, set num to 1(I think it will not work well when we assign bigger than 1 to num)  
+I am sorry about the uploaded code is not perfect yet.
 ## Reference
 For the code, I referred to the link below.  
 https://github.com/tkipf/pygcn
