@@ -9,3 +9,5 @@ I wanted to implement graph convolutional networks, so it is different from Semi
 ## How to run the code
 data_sampler load the data. To load the data(Omniglot), we need to assign root_dir(where data is stored) to Omniglot class.
 Also, set num to 1(I think it will not work well when we assign bigger than 1 to num)
+## Reference
+https://github.com/tkipf/pygcn
