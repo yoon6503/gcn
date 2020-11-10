@@ -1,9 +1,9 @@
 # Semi-Supervised Classification with Graph Convolutional Networks
 review of the projects is uploaded with pdf format named project_review due to the difficulties of typing equations through markdown:(
 ## Description of the content of the repo
-gcn.py is the python code for the model
+gcn.py is the python code for the model.
 img folder contains the equation files decribed in the review of the project.
-project_review is the review and summary of the Semi-Supervised Classification with Graph Convolutional Networks
+project_review is the review and summary of the Semi-Supervised Classification with Graph Convolutional Networks.
 ## Re-implementation of the project
 I wanted to implement graph convolutional networks, so it is different from Semi-Supervised Classification described in the paper. To use simple datasets, I used image data(Omniglot) and convert it to a graph data. However, it will not work well since it is not trained with sufficient datasets.
 ## How to run the code
